@@ -1,0 +1,11 @@
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\bin\Debug\AutomobileFormsApp.exe.config
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\bin\Debug\AutomobileFormsApp.exe
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\bin\Debug\AutomobileFormsApp.pdb
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.Properties.Resources.resources
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.csproj.GenerateResource.cache
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.exe
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.pdb
+C:\Users\dell\Documents\CodeSemester5\AutomobileSolution\AutomobileFormsApp\obj\Debug\AutomobileFormsApp.frmCarDetail.resources
